@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Some key packages}{}% 1
+\BOOKMARK [1][-]{section.2}{Description of the problem}{}% 2
+\BOOKMARK [1][-]{section.3}{Description of our approach for sore based structure learning}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Preprocessing}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Classifiers}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Validation}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Conditional Independence Tests}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Preprocessing}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Discrete distributions of our features}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Conditional probability table}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Building the graph}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.5}{Validation}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Implementation}{}% 13
+\BOOKMARK [1][-]{section.6}{Results}{}% 14
+\BOOKMARK [1][-]{section.7}{Conclusions}{}% 15
+\BOOKMARK [1][-]{section.8}{Conclusions}{}% 16
